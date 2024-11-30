@@ -1,0 +1,33 @@
+footer {
+    display: flex;
+    position: relative;
+    width: 100%;
+    bottom: 0;
+    background-color: rgb(135 133 162);
+    padding: 1% 0;
+    text-align: center;
+    gap: 0.3rem;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: stretch;
+    justify-content: center;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.link {
+    color: rgb(11, 18, 21);
+    text-decoration: none;
+    padding: 0 0.5rem;
+    font-size: 1.4rem;
+}
+
+@media (max-width: 768px) {
+    .link {
+        font-size: 1.1rem;
+    }
+}
