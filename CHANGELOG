@@ -1,0 +1,12 @@
+ver 0.0.1 20/05/2024
+- Aggiunta prima versione funzionante.
+
+ver 0.0.2 26/05/2024
+- Aggiunta file di desgin (figma,db).
+- Aggiunta productPage.jsp (vuoto).
+
+ver 0.0.3
+- Cambio struttura cartelle.
+- Aggiunta registrazionePage.jsp.
+- Aggiunta RegistrazioneController.java.
+- Aggiunta file .css e .js vuoti per pagine di registrazione.
