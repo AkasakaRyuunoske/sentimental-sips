@@ -1,3 +1,7 @@
+== Pre Word:
+This project was developed in a team of 2 people. It was developed to as part of a university exam (TSW - Tecnologie Software per il Web) and received 30L (Highest grade possible).
+This project does not have any comercial use, only learing purposes. Team did not draw or create in any way any of the images used. All tea immages are taken from open sources and are intelectual property of it's creator (Greenfield Tea co.). Main page background image is a screenshot from game "Genshin Impact", all credits go to the company creator of the game MiHoYo.
+
 # Sentimental Sips: Un negozio di tè online
 
 Benvenuti nel repository di Sentimental Sips, una piattaforma online dedicata alla vendita di tè.
